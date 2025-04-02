@@ -5,12 +5,7 @@ require("dotenv").config();
   console.log(process.env.DB_PORT);
   const password = "abc123";
   // const password2 = "test123";
-  const user = await User.create(
-    "nicholas.renotte@gmail.com",
-    password,
-    "nick",
-    "renotte"
-  );
+  const user = await User.create("user@gmail.com", password, "Jack", "TheUser");
   console.log(`Created successfully - ${JSON.stringify(user)}`);
 
   // const emailUser = await User.findByEmail(user.email);
