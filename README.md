@@ -2,7 +2,7 @@
 Soon to be on Y combinator, I kid, this is a full stack application showcasing how you might use Generative AI to help with procurement processes. 
 
 ## See it live and in action 📺
-<img src="https://i.imgur.com/PhHSBx7.gif"/>
+<img src="https://i.imgur.com/f97CRzO.gif"/>
 
 # Startup 🚀
 1. Install all the libraries `npm install && cd client && npm install`
